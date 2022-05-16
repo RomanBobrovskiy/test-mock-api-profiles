@@ -1,0 +1,23 @@
+{
+  "name": "test-mock-api-profiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBobrovskiy/test-mock-api-profiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBobrovskiy/test-mock-api-profiles/issues"
+  },
+  "homepage": "https://github.com/RomanBobrovskiy/test-mock-api-profiles#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
